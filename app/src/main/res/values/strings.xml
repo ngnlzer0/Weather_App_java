@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Weather_App</string>
+    <string name="app_name">Weather App</string>
+    <string name="hint_enter_city">Введіть місто</string>
+    <string name="default_city">Kyiv</string>
+    <string name="btn_search">Пошук</string>
+    <string name="desc_weather_icon">Іконка погоди</string>
+    <string name="temp_placeholder">0°C</string>
+    <string name="desc_placeholder">Опис погоди</string>
 </resources>

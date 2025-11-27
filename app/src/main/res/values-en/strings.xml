@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="hint_enter_city">Enter city</string>
+    <string name="default_city">Kyiv</string>
+    <string name="btn_search">Search</string>
+    <string name="desc_weather_icon">Weather icon</string>
+    <string name="temp_placeholder">0°C</string>
+    <string name="desc_placeholder">Weather description</string>
+</resources>
